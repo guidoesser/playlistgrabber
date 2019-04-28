@@ -2,7 +2,8 @@
 
 Pull full playlists from YouTube and automatically convert mp4 to mp3
 
-``` git clone https://github.com/guidoesser/playlistgrabber.git
+``` git clone https://github.com/guidoesser/playlistgrabber.git 
+```
 
 ``` mkdir mp3
 
