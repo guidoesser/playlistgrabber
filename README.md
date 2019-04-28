@@ -19,7 +19,7 @@ At the moment you will get the following error message:
 
 You have to change pytube in your environment:
 ```bash
-$ nano /playlistgrabber/env/lib/python3.6/site-packages/pytube/extract.py
+$ nano ./playlistgrabber/env/lib/python3.6/site-packages/pytube/extract.py
 ```
 Change
 ```python
